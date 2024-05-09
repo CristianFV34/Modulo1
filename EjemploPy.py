@@ -81,4 +81,5 @@ root.geometry("250x50+560+240")
 boton_mostrar = tk.Button(root, text="Mostrar", command=mostrar_datos)
 boton_mostrar.pack(pady=10)
 
+# Mantener la ventana abierta
 root.mainloop()
